@@ -1,2 +1,2 @@
 test file 2 
-more text by master
+text file more test by master
