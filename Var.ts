@@ -15,6 +15,7 @@ enum Status {
     pending,
     fulfilled,
     cancelled
+    
 }
 
 let appointment : Status = Status.pending ;
